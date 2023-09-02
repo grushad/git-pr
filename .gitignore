@@ -1,1 +1,4 @@
 .env
+.env2
+folder/.env-in-dir
+.DS_Store
